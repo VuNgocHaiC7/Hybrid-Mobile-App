@@ -1,0 +1,10 @@
+{
+  "appId": "com.faceapp.vn",
+  "appName": "Group1_FaceApp",
+  "webDir": "www",
+  "overrideUserAgent": "Googlebot",
+  "server": {
+    "url": "http://10.87.241.224/Project_Q/public/index.php",
+    "cleartext": true
+  }
+}
