@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Group1_FaceApp</string>
+    <string name="title_activity_main">Group1_FaceApp</string>
+    <string name="package_name">com.faceapp.vn</string>
+    <string name="custom_url_scheme">com.faceapp.vn</string>
+</resources>
